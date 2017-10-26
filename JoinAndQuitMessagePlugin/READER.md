@@ -1,0 +1,2 @@
+# JoinAndQuitMessagePlugin
+* JoinMessageとQuitMessageを無くすPluginです。

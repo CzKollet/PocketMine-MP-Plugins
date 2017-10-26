@@ -1,3 +1,3 @@
 # TemplatePlugin
-その名の通りNukkit版のTemplatePluginです。
-ご自由に使って下さい
+* その名の通りPocketMine-MP版のTemplatePluginです。
+* ご自由に使って下さい

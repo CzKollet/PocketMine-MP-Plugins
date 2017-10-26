@@ -3,3 +3,6 @@ PocketMine-MPのPlugin
 # TemplatePlugin
 * PocketMine-MPのテンプレートPluginです。
 * 是非使って下さい
+# JoinAndQuitMessagePlugin
+* JoinMessageとQuitMessageを無くすPluginです。
+* 是非使って下さい

@@ -1,0 +1,3 @@
+# TemplatePlugin
+その名の通りNukkit版のTemplatePluginです。
+ご自由に使って下さい

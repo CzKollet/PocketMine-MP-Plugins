@@ -6,6 +6,9 @@ class Main extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Li
   {
     switch (strtolower($c->getName())) 
     {
+        case "rp":
+        $name = $p->getName();
+        return true;
     }
   }
 }

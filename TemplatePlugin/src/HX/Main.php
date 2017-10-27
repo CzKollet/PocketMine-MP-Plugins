@@ -1,13 +1,17 @@
 <?php
 
-namespace HX;
+namespace HX; 
 
-//use
+//use pocketmine\event\PlayerJoinEvent; など
 
 class Main extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Listener 
 {
-  function onEnable() 
+  function onEnable() //Pluginが有効になった時
   {
-    $this->getLogger()->info("TemplatePlugin Load");
+    $this->getLogger()->info("TemplatePlugin Load"); コンソールにメッセージ送信
+  }
+  function onDisable()  //Pluginが無効になった時
+  {
+    $this->getLogger()->info("TemplatePlugin UnLoad"); コンソールにメッセージ送信
   }
 }

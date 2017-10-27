@@ -8,6 +8,9 @@ class Main extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Li
     {
         case "rp":
         $name = $p->getName();
+        /*
+        $p
+        */
         return true;
     }
   }

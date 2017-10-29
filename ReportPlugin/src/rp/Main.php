@@ -15,15 +15,15 @@ class Main extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Li
         return true;
     }
   }
-  public function Admin($m)
+  public function Admin($m) 
   {
-		foreach($this->getServer()->getOnlinePlayers() as $player)
+    foreach($this->getServer()->getOnlinePlayers() as $player) 
     {
-			if($player->isOp())
-      {
-				$player->sendMessage($m);
-			}
-		}
-		$this->getLogger()->info($m);
+        if($player->isOp()) 
+        {
+           $player->sendMessage($m);
 	}
+    }
+    $this->getLogger()->info($m);
+  }
 }

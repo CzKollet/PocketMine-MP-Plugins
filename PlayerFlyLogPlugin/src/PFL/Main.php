@@ -3,7 +3,7 @@ namespace PFL;
 use pocketmine\Player;
 class Main extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Listener 
 {
-  function onFlyLog(\pocketmine\event\player\PlayerToggleFlightEvent $ev)
+  function FlyLog(\pocketmine\event\player\PlayerToggleFlightEvent $ev)
   {
     $player = $ev->getPlayer();
 		if($ev->isFlying())

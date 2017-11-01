@@ -1,4 +1,4 @@
-# PocketMine-MP-Plugins
+## PocketMine-MP-Plugins
 PocketMine-MPのPlugin
 # TemplatePlugin
 * PocketMine-MPのテンプレートPluginです。

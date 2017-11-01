@@ -8,7 +8,7 @@ PocketMine-MPのPlugin
 * 是非使って下さい。
 ## ReportPlugin
 * 違反ユーザーをAdmin・コンソールに報告します。
-* 是非使って下さい。
+* まだ未完成です!!
 ## PlayerFlyLogPlugin
 * このPluginは誤検出がありません。なので嘘を付いても通用しません。
 * 是非使って下さい。

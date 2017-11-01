@@ -2,7 +2,6 @@
 namespace S;
 use pocketmine\Player;
 use pocketmine\level\Level;
-use pocketmine\math\Vector3;
 use pocketmine\event\entity\EntityTeleportEvent;
 class Main extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Listener 
 {
@@ -16,7 +15,7 @@ class Main extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Li
       $z = $this->getServer()->getDefaultLevel()->getSafeSpawn()->getZ();
       $level = $this->getServer()->getDefaultLevel();
       $player->setLevel($level);
-      $player->teleport(new Vector3($x, $y, $z, $level));
+      $player->teleport(new \pocketmine\math\Vector3($x, $y, $z, $level));
     }
   }
 }

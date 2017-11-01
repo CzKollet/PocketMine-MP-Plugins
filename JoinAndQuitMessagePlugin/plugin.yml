@@ -1,4 +1,4 @@
 name: JoinAndQuitMessagePlugin
 main: HX\Main
-api: 3.0.0-ALPHA9
-version: 1.0.0dev
+api: [3.0.0-ALPHA9, 3.0.0-ALPHA5, 3.0.0, 2.0.0, 1.13.0]
+version: 1.0.2dev

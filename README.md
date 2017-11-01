@@ -1,11 +1,14 @@
-## PocketMine-MP-Plugins
+# PocketMine-MP-Plugins
 PocketMine-MPのPlugin
-# TemplatePlugin
+## TemplatePlugin
 * PocketMine-MPのテンプレートPluginです。
 * 是非使って下さい。
-# JoinAndQuitMessagePlugin
+## JoinAndQuitMessagePlugin
 * JoinMessageとQuitMessageを無くすPluginです。
 * 是非使って下さい。
-# ReportPlugin
+## ReportPlugin
 * 違反ユーザーをAdmin・コンソールに報告します。
+* 是非使って下さい。
+## PlayerFlyLogPlugin
+* このPluginは誤検出がありません。なので嘘を付いても通用しません。
 * 是非使って下さい。

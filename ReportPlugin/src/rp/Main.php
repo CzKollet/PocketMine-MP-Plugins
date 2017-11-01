@@ -9,9 +9,7 @@ class Main extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Li
     {
         case "rp":
         $name = $p->getName();
-        /*
-        $this->Admin("§l§e[§cReport§e] §a".$name." §cから違反者の報告が来ています");
-        */
+        //$this->Admin("§l§e[§cReport§e] §a".$name." §cから違反者の報告が来ています");
         return true;
     }
   }

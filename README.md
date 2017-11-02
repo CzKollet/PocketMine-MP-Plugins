@@ -1,5 +1,5 @@
 # PocketMine-MP-Plugins
-PocketMine-MPのPlugin
+PocketMine-MPのPlugin。エラーがあれば報告お願いします
 ## TemplatePlugin
 * PocketMine-MPのテンプレートPluginです。
 * 是非使って下さい。

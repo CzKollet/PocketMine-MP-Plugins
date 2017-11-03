@@ -9,7 +9,7 @@
   ///////    ///////  ///////   ///////    ///////          ////////      /////// ///////    ///////   ///////
 
     このPluginはInkoHXによって制作されました。
-    URL:
+    URL: https://github.com/InkoHX/PocketMine-MP-Plugins
 */
 namespace Tips;
 use pocketmine\utils\Config as C;

@@ -20,3 +20,7 @@ PocketMine-MPのPlugin。エラーがあれば報告お願いします
 * 奈落に落ちたら死なずにリスポーン地点へTPされます。
 * 是非使って下さい
 * **[Phar版](https://github.com/InkoHX/PocketMine-MP-Plugins/blob/master/Phar/Spawn_1.0.2dev.phar)**
+## TipsPlugin
+* 3分に一回ymlで設定したメッセージが送信されます
+* 是非使って下さい
+* Phar版は生成していません

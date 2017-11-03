@@ -8,9 +8,8 @@
      ///        ///      ///       ///        ///        ///        ///      ///     ///        ///       ///
   ///////    ///////  ///////   ///////    ///////          ////////      /////// ///////    ///////   ///////
 
-    @LINCENSE
     このPluginはInkoHXによって制作されました。
-    作成者の名前を変えて配布したり・Pluginの名前だけを変えて配布したり・このPLuginを有料配布するのはやめて下さい。(PluginName 作者名がそのままであれば改造配布しても構いません。ですが https::github.com/InkoHX/PocketMine-MP-Plugins/TipsPlugin このURLも紹介して下さい。)
+    URL:
 */
 namespace Tips;
 use pocketmine\utils\Config as C;

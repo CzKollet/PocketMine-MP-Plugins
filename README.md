@@ -1,5 +1,5 @@
 # PocketMine-MP-Plugins
-PocketMine-MPのPlugin。エラーがあれば報告お願いします
+[![GenisysPro](https://github.com/InkoHX/PocketMine-MP-Plugins/blob/master/.icon/Icon.jpg)
 ## TemplatePlugin
 * PocketMine-MPのテンプレートPluginです。
 * 是非使って下さい。
